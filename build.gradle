@@ -1,0 +1,17 @@
+group 'EmailToCalendar'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+    compile 'com.google.apis:google-api-services-gmail:v1-rev50-1.22.0'
+    compile 'com.google.apis:google-api-services-calendar:v3-rev224-1.22.0'
+}
+
