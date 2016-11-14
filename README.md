@@ -2,11 +2,11 @@
 Automatically reads GMail emails and places them into a google calendar.
 Expects the emails to be in the following format:
 
-Event Name
-Location
-Start Date/Time (RFC3339 Format)
-End Date/Time  (RFC3339 Format)
-Description of the event
+Event Name   
+Location  
+Start Date/Time (RFC3339 Format)  
+End Date/Time  (RFC3339 Format)  
+Description of the event  
 
 I set up a Google Form with the above parameters and used a third-party application to automatically
 send me an email with the above data in the correct format.
