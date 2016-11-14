@@ -17,7 +17,7 @@ Read through my comments in main to determine what fields you need to change to 
 working for you!
 
 Also, a lot of the credit goes to Google for its API. Most of the code and comments here is taken from
-the sample java code Google provides on its API documentation website (i.e. https://developers.google.com/google-apps/) 
+the sample java code Google provides on its API documentation website (i.e. https://developers.google.com/google-apps/). 
 I just figured out how to put the pieces together.
 
 
